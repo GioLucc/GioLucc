@@ -2,7 +2,7 @@
 
 <div>
   <p align="center">
-    <img height = "180cm" src ="https://github-readme-stats.vercel.app/api?username=GioLucc&show_icons=true&theme=radical"/>
+    <img height = "180cm" src ="https://github-readme-stats.vercel.app/api?username=GioLucc&include_all_commits=true&show_icons=true&theme=radical"/>
     <img height = "180cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GioLucc&layout=compact&hide=css&theme=radical"/>
   </p>
     
