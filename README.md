@@ -16,16 +16,16 @@ C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
   ---
   <div>
   <p align="center">
-    <img height = "160cm" src ="https://github-readme-stats.vercel.app/api?username=GioLucc&include_all_commits=true&show_icons=true&theme=radical"/>
-    <img height = "160cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GioLucc&layout=compact&hide=css&theme=radical"/>
+    <img height = "170cm" src ="https://github-readme-stats.vercel.app/api?username=GioLucc&include_all_commits=true&show_icons=true&theme=radical"/>
+    <img height = "170cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GioLucc&layout=compact&hide=css&theme=radical"/>
   </p>
     
 <br>
   <p align="center">
     <a href="https://github.com/GioLucc/Ejercicios-Cuatrimestre-C.">
-    <img height = "120cm" src ="https://github-readme-stats.vercel.app/api/pin/?username=GioLucc&repo=Ejercicios-Cuatrimestre-C.&theme=radical"/>
+    <img height = "130cm" src ="https://github-readme-stats.vercel.app/api/pin/?username=GioLucc&repo=Ejercicios-Cuatrimestre-C.&theme=radical"/>
     <a href="https://github.com/GioLucc/Ejercicios-Cuatrimestre-CSharp">
-    <img height = "120cm" src ="https://github-readme-stats.vercel.app/api/pin/?username=GioLucc&repo=Ejercicios-Cuatrimestre-CSharp&theme=radical"/>
+    <img height = "130cm" src ="https://github-readme-stats.vercel.app/api/pin/?username=GioLucc&repo=Ejercicios-Cuatrimestre-CSharp&theme=radical"/>
   </p>
 </div>
 
