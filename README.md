@@ -46,9 +46,10 @@ C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
      <img align="center" alt="Gio-CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
      <img align="center" alt="Gio-CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">     
       </p>
-  
 </div>
-<br><br><br><br><br><br><br><br><br>
+
+![snake gif](https://github.com/GioLucc/GioLucc/blob/output/github-contribution-grid-snake.svg)
+
 <div> 
 <p align="center">
   <a href="https://instagram.com/tanolucc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -56,6 +57,7 @@ C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
   <a href="https://www.linkedin.com/in/giovanni-lucchetta-5aa1b11a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 </div>
+
 <!--
 **GioLucc/GioLucc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
