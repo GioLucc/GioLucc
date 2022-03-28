@@ -9,7 +9,7 @@
 ---
 <br>
   <p align="center">
-    <a href="https://github.com/GioLucc/Ejercicios-Cuatrimestre-C.r">
+    <a href="https://github.com/GioLucc/Ejercicios-Cuatrimestre-C.">
     <img height = "140cm" src ="https://github-readme-stats.vercel.app/api/pin/?username=GioLucc&repo=Ejercicios-Cuatrimestre-C.&theme=radical"/>
     <a href="https://github.com/GioLucc/Ejercicios-Cuatrimestre-CSharp">
     <img height = "140cm" src ="https://github-readme-stats.vercel.app/api/pin/?username=GioLucc&repo=Ejercicios-Cuatrimestre-CSharp&theme=radical"/>
