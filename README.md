@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GioLucc's GitHub stats](https://github-readme-stats.vercel.app/api?username=GioLucc&show_icons=true&theme=omni)](https://github.com/GioLucc/github-readme-stats)
+
 <!--
 **GioLucc/GioLucc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
