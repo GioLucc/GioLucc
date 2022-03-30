@@ -28,7 +28,6 @@ C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
     <img height = "150cm" src ="https://github-readme-stats.vercel.app/api/pin/?username=GioLucc&repo=Ejercicios-Cuatrimestre-CSharp&theme=radical&title_color=#632ea3"/>
   </p>
 </div>
-
 <div>
   <p align="center">
   <h2 align = "center"> Programming Languages Used</h2><br> 
