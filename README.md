@@ -6,7 +6,7 @@
 My current knowledge
 C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="28"/> & Currently studying C# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30">
         <br><br>
-        Programming Student & Assistant Professor at the
+        Programming Student & Professor at the
         <br>
       👨🏻‍💻 <strong>National Technological University [UTN]</strong> 👨🏻‍💻</h3>
     </div>    
