@@ -16,8 +16,8 @@ C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
   ---
   <div>
   <p align="center">
-    <img height = "170cm" src ="https://github-readme-stats.vercel.app/api?username=GioLucc&include_all_commits=true&show_icons=true&theme=radical"/>
-    <img height = "170cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GioLucc&layout=compact&hide=css&theme=radical"/>
+    <img height = "165cm" src ="https://github-readme-stats.vercel.app/api?username=GioLucc&include_all_commits=true&show_icons=true&theme=radical"/>
+    <img height = "165cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GioLucc&layout=compact&hide=css&theme=radical"/>
   </p>
     
 <br>
