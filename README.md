@@ -1,4 +1,4 @@
-<div align='left'>
+<div align='center'>
 <h1> ¡Hi everyone, I'm Giovanni👋!</h1>
 <h3> My name is Giovanni, but everyone calls me Tano!<br>
      At the present time I'm Studying at <strong>National Technological University [UTN]</strong><br><br>
