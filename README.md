@@ -47,7 +47,7 @@ C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
       </p>
 </div>
 
-![snake gif](https://github.com/GioLucc/GioLucc/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/GioLucc/GioLucc/blob/output/github-contribution-grid-snake.gif)
 
 <div> 
 <p align="center">
