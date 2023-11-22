@@ -1,4 +1,5 @@
 <div align='center'>
+<div align='center'>
 <h1> ¡Hi everyone, I'm Giovanni👋!</h1>
 <h3> My name is Giovanni, but everyone calls me Tano!<br>
      At the present time I'm Studying at <strong>National Technological University [UTN]</strong><br><br>
@@ -38,4 +39,5 @@ C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
     <a href="mailto:giolucarna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/giovanni-lucchetta-5aa1b11a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </p>
+</div>
 </div>
