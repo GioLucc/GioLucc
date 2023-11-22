@@ -1,3 +1,4 @@
+
 <div style="text-align: center;">
   <p>
     <h1>¡Hi everyone, I'm Giovanni👋!</h1>
@@ -11,9 +12,10 @@
       👨🏻‍💻 <strong>National Technological University [UTN]</strong> 👨🏻‍💻
     </h3>
   </p>
-</div>
   <br><br><br>
-  ---
+  <!-- Place your horizontal line here if needed -->
+</div>
+
   <div>
   <p align="center">
     <img height = "165cm" src ="https://github-readme-stats.vercel.app/api?username=GioLucc&include_all_commits=true&show_icons=true&theme=radical"/>
