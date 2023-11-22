@@ -21,12 +21,6 @@
   </p>
     
 <br>
-  <p align="center">
-    <a href="https://github.com/GioLucc/Ejercicios-Cuatrimestre-C.">
-    <img height = "150cm" src ="https://github-readme-stats.vercel.app/api/pin/?username=GioLucc&repo=Ejercicios-Cuatrimestre-C.&theme=radical&title_color=#632ea3"/>
-    <a href="https://github.com/GioLucc/Ejercicios-Cuatrimestre-CSharp">
-    <img height = "150cm" src ="https://github-readme-stats.vercel.app/api/pin/?username=GioLucc&repo=Ejercicios-Cuatrimestre-CSharp&theme=radical&title_color=#632ea3"/>
-  </p>
 </div>
 <div>
   <p align="center">
