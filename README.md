@@ -1,19 +1,15 @@
-
 <div style="text-align: center;">
-  <p>
-    <h1>¡Hi everyone, I'm Giovanni👋!</h1>
-    <h3>My name is Giovanni, but everyone calls me Tano!<br>
-      At the present time, I'm studying at <strong>National Technological University [UTN]</strong><br><br>
-      My current knowledge
-      C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="28"/> & Currently studying C# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30">
-      <br><br>
-      Programming Student & Professor at the
-      <br>
-      👨🏻‍💻 <strong>National Technological University [UTN]</strong> 👨🏻‍💻
-    </h3>
-  </p>
+  <h1>¡Hi everyone, I'm Giovanni👋!</h1>
+  <h3>My name is Giovanni, but everyone calls me Tano!<br>
+    At the present time, I'm studying at <strong>National Technological University [UTN]</strong><br><br>
+    My current knowledge
+    C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="28"/> & Currently studying C# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30">
+    <br><br>
+    Programming Student & Professor at the
+    <br>
+    👨🏻‍💻 <strong>National Technological University [UTN]</strong> 👨🏻‍💻
+  </h3>
   <br><br><br>
-  <!-- Place your horizontal line here if needed -->
 </div>
 
   <div>
