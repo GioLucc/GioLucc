@@ -14,53 +14,38 @@
   <!-- Coloca la línea horizontal aquí si es necesario -->
 </div>
 
-  <div>
-  <p align="center">
-    <img height = "165cm" src ="https://github-readme-stats.vercel.app/api?username=GioLucc&include_all_commits=true&show_icons=true&theme=radical"/>
-    <img height = "165cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GioLucc&layout=compact&hide=css&theme=radical"/>
+<div style="text-align: center;">
+  <p>
+    <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=GioLucc&include_all_commits=true&show_icons=true&theme=radical"/>
+    <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioLucc&layout=compact&hide=css&theme=radical"/>
   </p>
-    
-<br>
+  <br>
 </div>
-<div>
-  <p align="center">
-  <h2 align = "center"> Programming Languages Used</h2><br> 
-    </p>
-  <p align="center">
-  <img align="center" alt="Gio-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Gio-CS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gio-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gio-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gio-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
+<div style="text-align: center;">
+  <h2>Programming Languages Used</h2><br>
+  <p>
+    <img align="center" alt="Gio-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="Gio-CS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Gio-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Gio-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Gio-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </p>
-   <h4 align = "center"> IDE's Used</h4>
-  <p align="center">
-     <img align="center" alt="Gio-CSS" height="45" width="45" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg">
-     <img align="center" alt="Gio-CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-     <img align="center" alt="Gio-CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">     
-      </p>
+  <h4>IDE's Used</h4>
+  <p>
+    <img align="center" alt="Gio-CSS" height="45" width="45" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg">
+    <img align="center" alt="Gio-CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Gio-CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  </p>
 </div>
 
-![snake gif](https://github.com/GioLucc/GioLucc/blob/output/github-contribution-grid-snake.gif)
-
-<div> 
-<p align="center">
-  <a href = "mailto:giolucarna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giovanni-lucchetta-5aa1b11a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
+<div style="text-align: center;">
+  <img src="https://github.com/GioLucc/GioLucc/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
 </div>
 
-<!--
-**GioLucc/GioLucc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="text-align: center;">
+  <p>
+    <a href="mailto:giolucarna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/giovanni-lucchetta-5aa1b11a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </p>
+</div>
