@@ -1,15 +1,16 @@
-<div style="text-align: center;">
-  <h1>¡Hola a todos, soy Giovanni👋!</h1>
-  <h3>Mi nombre es Giovanni, pero todos me llaman Tano.<br>
-    En este momento, estoy estudiando en la <strong>Universidad Tecnológica Nacional [UTN]</strong>.<br><br>
-    Mis conocimientos actuales incluyen C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="28"/> y actualmente estoy estudiando C# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30">
-    <br><br>
-    Estudiante y Profesor de Programación en la
-    <br>
-    👨🏻‍💻 <strong>Universidad Tecnológica Nacional [UTN]</strong> 👨🏻‍💻
-  </h3>
+<div align='left'>
+<h1> ¡Hi everyone, I'm Giovanni👋!</h1>
+<h3> My name is Giovanni, but everyone calls me Tano!<br>
+     At the present time I'm Studying at <strong>National Technological University [UTN]</strong><br><br>
+My current knowledge
+C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="28"/> & Currently studying C# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30">
+        <br><br>
+        Programming Student & Professor at the
+        <br>
+      👨🏻‍💻 <strong>National Technological University [UTN]</strong> 👨🏻‍💻</h3>
+    </div>    
+  
   <br><br><br>
-
   <p>
     <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=GioLucc&include_all_commits=true&show_icons=true&theme=radical"/>
     <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioLucc&layout=compact&hide=css&theme=radical"/>
