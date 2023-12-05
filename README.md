@@ -9,9 +9,7 @@ C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
         Programming Student & Professor at the
         <br>
       👨🏻‍💻 <strong>National Technological University [UTN]</strong> 👨🏻‍💻</h3>
-    </div>    
-  
-  <br><br><br>
+    </div>   
 
   <h2>Programming Languages Used</h2>
   <p>
