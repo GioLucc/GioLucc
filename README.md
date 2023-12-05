@@ -12,11 +12,7 @@ C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
     </div>    
   
   <br><br><br>
-  <p>
-    <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=GioLucc&include_all_commits=true&show_icons=true&theme=radical"/>
-    <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GioLucc&layout=compact&hide=css&theme=radical"/>
-  </p>
-  
+
   <h2>Programming Languages Used</h2>
   <p>
     <img alt="Gio-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
