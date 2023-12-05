@@ -4,7 +4,7 @@
 <h3> My name is Giovanni, but everyone calls me Tano!<br>
      At the present time I'm Studying at <strong>National Technological University [UTN]</strong><br><br>
 My current knowledge
-C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="28"/> C# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"> Python <img src= hhttps://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png alt="Python" width="50" height="50"/> & Currently studying PHP <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="C#" width="30" height="30">
+C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="28"/> C# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"> Python <img src= https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png alt="Python" width="50" height="50"/> & Currently studying PHP <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="C#" width="50" height="50">
         <br><br>
         Programming Student & Professor at the
         <br>
