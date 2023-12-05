@@ -15,8 +15,8 @@ C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
   <p>
     <img alt="Gio-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img alt="Gio-CS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img src= https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png alt="Python" width="30" height="35"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="C#" width="38" height="38">
+    <img src= https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png alt="Python" width="40" height="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="C#" width="50" height="50">
     <img alt="Gio-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="Gio-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img alt="Gio-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
