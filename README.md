@@ -4,7 +4,7 @@
 <h3> My name is Giovanni, but everyone calls me Tano!<br>
      At the present time I'm Studying at <strong>National Technological University [UTN]</strong><br><br>
 My current knowledge
-C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="28"/> & Currently studying C# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30">
+C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="28"/> C# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"> Python <img src= https://www.svgrepo.com/show/376344/python.svg alt="C" width="40" height="28"/> & Currently studying C# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30">
         <br><br>
         Programming Student & Professor at the
         <br>
